@@ -17,28 +17,6 @@ Ao longo do meu percurso educacional na One Bit Code, tive a oportunidade de apr
 
 ## 👷 Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
-
-* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
-* **Sujeito Programador** - *Frontend do projeto* - [@sujeitoprogramador](https://github.com/devfraga)
-
-## 📄 Licença
-
-Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
-
-## 💭 FAQ - Perguntas frequentes
-
-#### Questão 1
-
-Resposta 1
-
-#### Questão 2
-
-Resposta 2
+* **One Bit Code** - *Instituição de ensino* - https://www.linkedin.com/school/onebitcode/posts/?feedView=all
 
 
-## 💡 Expressões de gratidão
-
-* Um agradecimento publicamente.
-* Para suporte, mande um email para nome@teste.com.
-* Link para o seu linkedin [Meu linkedin](https://url_do_link)
